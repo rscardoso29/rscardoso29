@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="http://www.lowgif.com/871ed8e14d03d680.html">
+<img align="right" width="400" height="400" src="https://acegif.com/wp-content/gifs/dancing-rabbit-4.gif">
 
 # Welcome!
 
