@@ -1,16 +1,23 @@
-### Hi there 👋
+<img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
 
-<!--
-**rscardoso29/rscardoso29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome!
 
-Here are some ideas to get you started:
+## I'm Roberto Cardoso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+… Assiduous student of new technologies, passionate about software development. Currently studying:
+ * HTML5
+ * CSS
+ * JavaScript
+ * Git
+ * GitHub
+
+
+## About me 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/rscardoso29)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robertosouzacardoso/)](link_do_seu_perfil_no_linkedin)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+051+998186221&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+051+998186221&text=Hello!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:roberto.cardoso33@gmail.com)
+
+- Thanks for visiting. 
+
+- Enjoy it!! o/
